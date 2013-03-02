@@ -1,0 +1,26 @@
+#!/usr/bin/env coffee
+
+Flex = require('nez').objective 'Flex'
+
+Flex
+
+    class: 'Core Module - Resource Pooling'
+
+    category: 'Scalability'
+
+    description: """
+
+
+        Resource pooling. 
+
+
+
+        a.k.a. 
+
+
+
+        Usage Spooling
+
+
+    """, (feature) ->  
+
